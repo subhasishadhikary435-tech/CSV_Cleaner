@@ -1,0 +1,9 @@
+name, age, date, city
+"Smith, John", 30, 2025/09/18, "New York"
+Alice, , 18-09-2025,London
+Bob,25,09-18-2025, "Mumbai"
+
+, , ,
+Charlie, 35, 2025-09-18, "San Francisco"
+name, age, date, city
+"O'Neil, Sara", 28, 2025-09-17, "Bengaluru"
